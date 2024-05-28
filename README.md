@@ -11,7 +11,7 @@ This repository contains materials for Week 02 / Module 02 Unit 01 Lab in the IT
 To get started with the lab exercises:
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://cci-git.charlotte.edu/hramapra/ITSC-2181-Module-02-Lab
+    git clone https://github.com/amhajja/ITSC-2181-Module-02-Lab.git
     ```
     
 2. Change into the newly created directory:
